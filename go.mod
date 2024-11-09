@@ -1,3 +1,3 @@
-module github.com/lkeix/godzilla
+module github.com/lkeix/goleinu
 
 go 1.23.2
